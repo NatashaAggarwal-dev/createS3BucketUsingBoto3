@@ -39,5 +39,6 @@ This stores your credentials in:
 🧠 Jupyter Notebook will read these files automatically.
 
 ✅ 2. AWS CLI configured locally OR credentials set using environment variables or config file
+
 ✅ 3-`boto3` installed:
   (pip install boto3)
